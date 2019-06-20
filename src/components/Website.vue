@@ -76,7 +76,7 @@
           <a target="_blank" href="https://www.linkedin.com/in/eddowhintoso/">
             <i class="fa fa-linkedin" aria-hidden="true"></i>
           </a>
-          <a target="_blank">
+          <a target="_blank" href="https://drive.google.com/file/d/1nkZ7KGdcdsiza3jslLCD8RV09dMOsalo/view?usp=sharing">
             <i class="fa fa-file-text-o" aria-hidden="true"></i>
           </a>
         </div>
